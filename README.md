@@ -45,10 +45,12 @@ I have experience in Information Technology, specifically in Software Developmen
 </p>
 
 ## 📊GitHub Stats
-<p>
-<a href="https://github.com/Ardhi1102/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ardhi1102&theme=nightowl&include_all_commits=true&count_private=true" alt="Ardhi's github stats" /></a>
-<a href="https://github.com/Ardhi1102/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ardhi1102&theme=nightowl&include_all_commits=true&count_private=true" /></a> 
-	
+
+| <a href="https://github.com/Ardhi1102/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ardhi1102&theme=nightowl&hide_border=false&ring=161b228&include_all_commits=true&count_private=true" alt="Ardhi's github stats" /></a> | <a href="https://github.com/Ardhi1102/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ardhi1102&theme=nightowl&hide_border=false" /></a> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 <div align='center'>
-<a href="https://github.com/Ardhi1102/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhi1102&layout=compact&langs_count=8&theme=nightowl" /></a>
-</p>
+  
+| <a href="https://github.com/Ardhi1102/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhi1102&layout=compact&langs_count=8&theme=nightowl" /></a> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+</div>
