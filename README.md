@@ -21,7 +21,7 @@ I have experience in Information Technology, specifically in Software Developmen
 ## 🤝 Connect with me
 <p>
 	<a href="mailto:awiranata228@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="www.linkedin.com/in/ardhi-wiranata/"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/ardhi-wiranata/"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/ardhi.wir/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
   	<a href="https://github.com/Ardhi1102"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/></a>
   </a>
