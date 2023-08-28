@@ -16,7 +16,6 @@ I have experience in Information Technology, specifically in Software Developmen
 ## 📘My Projects
 <p>
 <a href="https://github.com/Ardhi1102?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-  </a>
 </p>
 
 ## 🤝 Connect with me
@@ -49,6 +48,7 @@ I have experience in Information Technology, specifically in Software Developmen
 <p>
 <a href="https://github.com/Ardhi1102/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ardhi1102&theme=nightowl&include_all_commits=true&count_private=true" alt="Ardhi's github stats" /></a>
 <a href="https://github.com/Ardhi1102/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ardhi1102&theme=nightowl&include_all_commits=true&count_private=true" /></a> 
+	
+<div align='center'>
 <a href="https://github.com/Ardhi1102/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhi1102&layout=compact&langs_count=8&theme=nightowl" /></a>
-</a>
 </p>
