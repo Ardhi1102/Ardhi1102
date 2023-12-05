@@ -4,7 +4,7 @@ Hi there 👋, I'm Ardhi Wiranata, a software engineer in quality assurance, her
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 </a>
 
-I have experience in Information Technology, specifically in Software Development in Quality Assurance. Developed both manual and automation testing skills, as well as debugging software. Familiar with the software development life cycle and various agile methodologies. Used Java and Gherkin languages to develop web automation tests with the Selenium framework, and API automation tests with RestAssured. Proficient in using tools such as Postman, Intellij Idea, and JMeter to support my tasks.
+I have experience in Information Technology, specifically in Software Development in Quality Assurance. Developed both manual and automation testing skills, as well as debugging software. Familiar with the software development life cycle and various agile methodologies. Used Java and Gherkin languages to develop web automation tests with the Selenium framework, and API automation tests with RestAssured. Proficient in using tools such as Postman, Intellij Idea, and JMeter to support my tasks. 
 
 - I am interested in analysis and creating manual and automated tests
 - I am looking forward to collaborating on open-source projects.
